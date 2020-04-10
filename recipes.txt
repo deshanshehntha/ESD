@@ -3,6 +3,10 @@ Welcome to kitchen
 Food 1
 Food 2
 
+beans
+pizza
+
 thank you
 
+done my changes
 final copy
